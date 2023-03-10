@@ -1,0 +1,32 @@
+{
+  "login": "Login",
+    "login_title": "Welcome...",
+  "login_subtitle": "Enter email & password",
+  "email": "Email",
+  "password": "Password",
+
+  "register": "Register",
+  "register_title": "Create new account...",
+  "register_subtitle": "Enter details below",
+  "name": "Name",
+
+  "have_account" : "Don't have an account??",
+  "create_account" : "Create Now!",
+
+  "new_note": "New resident",
+  "update_note": "Update resident",
+  "note_hint":"Enter title & info",
+  "residentName": "resident name",
+  "apartmentNumber": "Apartment number",
+  "save": "Save",
+
+  "new_statement": "new statement",
+  "update_statement": "update statement",
+
+
+  "amount": "Enter the amount",
+  "payment_Date": "Payment date",
+  "payment_Year": "Payment month",
+  "payment_Details": "payment details",
+  "apartment": "apartment"
+}

@@ -1,0 +1,34 @@
+{
+  "login":"تسجيل الدخول",
+  "login_title": "مرحبا...",
+  "login_subtitle": "أدخل البريد و كلمة المرور",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+
+  "register": "إنشاء حساب",
+  "register_title": "إنشئ حساب جديد...",
+  "register_subtitle": "أدخل البيانات التالية",
+  "name": "الإسم",
+  "have_account" : "لا تملك حساب؟؟",
+  "create_account" : "انشئ حساب جديد!",
+
+
+  "new_note": "إضافة ساكن جديد",
+  "update_note": "تعديل ساكن",
+  "note_hint":"أدخل العنوان و الوصف",
+  "residentName": "اسم الساكن",
+  "apartmentNumber": "رقم الشقة",
+  "save": "حفظ",
+
+  "new_statement": "إنشاء كشف حساب جديد",
+  "update_statement": "تعديل كشف حساب",
+
+  "amount": "ادخل المبلغ",
+  "payment_Date": "تاريخ تسديد المبلغ",
+  "payment_Year": "عن شهر؟؟",
+  "payment_Details": "تفاصيل الدفعة",
+
+  "apartment": "عمارتي"
+
+
+}
